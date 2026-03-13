@@ -1,16 +1,18 @@
-# React + Vite
+# CyberSafe Training Suite: A Girls in ICT Day Initiative · DICT Region IV-A
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Module 1 — PhishGuard 
 
-Currently, two official plugins are available:
+Phishing Detection Simulator
+Every day, millions of phishing emails and text messages are sent to ordinary people — crafted to steal passwords, drain bank accounts, and hijack identities. Most victims aren't careless. They're rushed, distracted, or simply never taught what to look for.
+PhishGuard changes that.
+You'll work through twelve realistic scenarios drawn from actual phishing campaigns — emails impersonating PayPal, Google, Microsoft, and local HR departments; SMS messages pretending to be USPS and Chase Bank; and messages so convincing they regularly fool IT professionals. Your job is simple: decide whether each message is a phishing attempt or legitimate. But as the difficulty rises, so does the sophistication of the fakes.
+Along the way, you'll learn to read sender domains character by character, spot the urgency and fear tactics attackers rely on, recognize that a professional-looking email means nothing without a legitimate domain, and understand why SMS sender names are completely spoofable. Every incorrect answer comes with a full breakdown of the red flags you missed, so each mistake becomes a lesson.
+Four difficulty levels — Rookie, Cadet, Analyst, and Expert — ensure the challenge grows with you. Streak bonuses reward consistency, and six unlockable badges mark your progress from First Steps to Phish Hunter.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What you'll walk away with
 
-## React Compiler
+The instinct to pause before clicking, the habit of checking domains, and the knowledge that urgency in an email is almost always a weapon.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## CyberSafe for Girls in ICT Day
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CyberSafe was developed to support the ITU's Girls in ICT Day mission of empowering women and girls to pursue careers in technology — and to ensure that every woman who enters the digital world does so equipped to protect herself in it.
